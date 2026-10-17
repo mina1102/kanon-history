@@ -1,0 +1,22 @@
+{
+  "name": "split-pane",
+  "version": "0.5.1",
+  "description": "jQuery Split Pane plugin",
+  "main": "split-pane.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imdone/split-pane.git"
+  },
+  "author": "Simon Hagström <simon.hagstrom@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imdone/split-pane/issues"
+  },
+  "homepage": "https://github.com/imdone/split-pane"
+}
